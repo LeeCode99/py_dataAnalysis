@@ -1,0 +1,47 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+}
+
+div {
+    width: 960px;
+    margin: 0 auto;
+}
+
+table,
+th,
+td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+    width: 100px;
+}
+
+textarea {
+    width: 80px;
+}
