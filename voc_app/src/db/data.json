@@ -1,0 +1,46 @@
+{
+    "days": [
+        {
+            "id": 1,
+            "day": 1
+        },
+        {
+            "id": 2,
+            "day": 2
+        },
+        {
+            "id": 3,
+            "day": 3
+        }
+    ],
+    "words": [
+        {
+            "id": 1,
+            "day": 1,
+            "eng": "book",
+            "kor": "cha",
+            "isDone": false
+        },
+        {
+            "id": 2,
+            "day": 3,
+            "eng": "apple",
+            "kor": "tkrhks",
+            "isDone": false
+        },
+        {
+            "id": 3,
+            "day": 1,
+            "eng": "car",
+            "kor": "cha",
+            "isDone": false
+        },
+        {
+            "id": 4,
+            "day": 2,
+            "eng": "pen",
+            "kor": "pen",
+            "isDone": false
+        }
+    ]
+}
